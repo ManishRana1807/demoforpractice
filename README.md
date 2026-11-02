@@ -1,4 +1,4 @@
 # demoforpractice
 this is the first repository 
 <br>
-Author-Manish rana 
+Author-Manish rana (student)
